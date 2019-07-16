@@ -18,7 +18,7 @@
 namespace Google\Cloud\BigQuery;
 
 use Google\Cloud\Core\ArrayTrait;
-use Ramsey\Uuid\Uuid;
+use Rhumsaa\Uuid\Uuid;
 
 /**
  * A utility trait implementing shared behavior between job configurations.
